@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Authentication</title>
+    <link rel="stylesheet" href="../Styles/login.css">
+</head>
+
+<body>
+    <div class="container">
+        <table>
+            <tr>
+                <th>Username:</th>
+                <td><input type="text" name="" id="txtUsername" placeholder="Tên đăng nhập" required></td>
+            </tr>
+            <tr>
+                <th>Password</th>
+                <td><input type="password" name="" id="txtPassword" placeholder="Mật khẩu" required></td>
+            </tr>
+            <tr>
+                <th>Name:</th>
+                <td><input type="text" name="" id="txtName" placeholder="Tên của bạn"></td>
+            </tr>
+        </table>
+        <p id="authen-notific"></p>
+        <button onclick="authentication()">Đăng nhập</button>
+        <button onclick="resgister()">Đăng ký</button>
+    </div>
+    <script src="../Scripts/index.js"></script>
+</body>
+
+</html>

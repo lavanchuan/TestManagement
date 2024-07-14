@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\Csharp\\TestManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3942D00-290C-4B5D-8A2D-F0EC8B769B31}|TestServer\\TestServer.csproj|e:\\project\\csharp\\testmanagement\\testserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3942D00-290C-4B5D-8A2D-F0EC8B769B31}|TestServer\\TestServer.csproj|solutionrelative:testserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\services\\daos\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\services\\daos\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\requests\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\requests\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\responses\\serverresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\responses\\serverresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\services\\daos\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\services\\daos\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\services\\daos\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\services\\daos\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\services\\daos\\incorrectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\services\\daos\\incorrectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\entities\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\entities\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\entities\\incorrectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\entities\\incorrectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\services\\daos\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\services\\daos\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\services\\daos\\testquestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\services\\daos\\testquestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\entities\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\entities\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\entities\\requests\\requestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\entities\\requests\\requestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3942D00-290C-4B5D-8A2D-F0EC8B769B31}|TestServer\\TestServer.csproj|e:\\project\\csharp\\testmanagement\\testserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3942D00-290C-4B5D-8A2D-F0EC8B769B31}|TestServer\\TestServer.csproj|solutionrelative:testserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|e:\\project\\csharp\\testmanagement\\testmanagement\\services\\formatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E68CB1-3AA1-48FD-BD56-312BC92B7EE2}|TestManagement\\TestManagement.csproj|solutionrelative:testmanagement\\services\\formatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32E985-9096-4AF6-9411-0E7E32BA33B7}|TestClient\\TestClient.csproj|e:\\project\\csharp\\testmanagement\\testclient\\services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC32E985-9096-4AF6-9411-0E7E32BA33B7}|TestClient\\TestClient.csproj|solutionrelative:testclient\\services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32E985-9096-4AF6-9411-0E7E32BA33B7}|TestClient\\TestClient.csproj|e:\\project\\csharp\\testmanagement\\testclient\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC32E985-9096-4AF6-9411-0E7E32BA33B7}|TestClient\\TestClient.csproj|solutionrelative:testclient\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32E985-9096-4AF6-9411-0E7E32BA33B7}|TestClient\\TestClient.csproj|e:\\project\\csharp\\testmanagement\\testclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC32E985-9096-4AF6-9411-0E7E32BA33B7}|TestClient\\TestClient.csproj|solutionrelative:testclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32E985-9096-4AF6-9411-0E7E32BA33B7}|TestClient\\TestClient.csproj|e:\\project\\csharp\\testmanagement\\testclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC32E985-9096-4AF6-9411-0E7E32BA33B7}|TestClient\\TestClient.csproj|solutionrelative:testclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultService.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\ResultService.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Services\\Daos\\ResultService.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\ResultService.cs",
+              "RelativeToolTip": "TestManagement\\Services\\Daos\\ResultService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAApwF8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:47:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestServer\\Server.cs",
+              "RelativeDocumentMoniker": "TestServer\\Server.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestServer\\Server.cs",
+              "RelativeToolTip": "TestServer\\Server.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAgwKEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:06:36.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\QuestionService.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Services\\Daos\\QuestionService.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\QuestionService.cs",
+              "RelativeToolTip": "TestManagement\\Services\\Daos\\QuestionService.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAQwJkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:05:37.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerResponse.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Responses\\ServerResponse.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Responses\\ServerResponse.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Responses\\ServerResponse.cs",
+              "RelativeToolTip": "TestManagement\\Responses\\ServerResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:36:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientRequest.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Requests\\ClientRequest.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Requests\\ClientRequest.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Requests\\ClientRequest.cs",
+              "RelativeToolTip": "TestManagement\\Requests\\ClientRequest.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:17:06.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\AccountService.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Services\\Daos\\AccountService.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\AccountService.cs",
+              "RelativeToolTip": "TestManagement\\Services\\Daos\\AccountService.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAASwH0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:40:30.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IncorrectService.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\IncorrectService.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Services\\Daos\\IncorrectService.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\IncorrectService.cs",
+              "RelativeToolTip": "TestManagement\\Services\\Daos\\IncorrectService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAhwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:55:23.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IncorrectDTO.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Entities\\IncorrectDTO.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Entities\\IncorrectDTO.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Entities\\IncorrectDTO.cs",
+              "RelativeToolTip": "TestManagement\\Entities\\IncorrectDTO.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:55:06.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\TestService.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Services\\Daos\\TestService.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\TestService.cs",
+              "RelativeToolTip": "TestManagement\\Services\\Daos\\TestService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAhwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:12:45.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Entities\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Entities\\QuestionDTO.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Entities\\QuestionDTO.cs",
+              "RelativeToolTip": "TestManagement\\Entities\\QuestionDTO.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAhwEsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:02:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestQuestService.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\TestQuestService.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Services\\Daos\\TestQuestService.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\Daos\\TestQuestService.cs",
+              "RelativeToolTip": "TestManagement\\Services\\Daos\\TestQuestService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAhwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:29:31.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestDTO.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Entities\\TestDTO.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Entities\\TestDTO.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Entities\\TestDTO.cs",
+              "RelativeToolTip": "TestManagement\\Entities\\TestDTO.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:33:23.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestData.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Entities\\Requests\\RequestData.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Entities\\Requests\\RequestData.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Entities\\Requests\\RequestData.cs",
+              "RelativeToolTip": "TestManagement\\Entities\\Requests\\RequestData.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:20:20.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormatService.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\FormatService.cs",
+              "RelativeDocumentMoniker": "TestManagement\\Services\\FormatService.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestManagement\\Services\\FormatService.cs",
+              "RelativeToolTip": "TestManagement\\Services\\FormatService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:48:53.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestClient\\Services\\Authentication.cs",
+              "RelativeDocumentMoniker": "TestClient\\Services\\Authentication.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestClient\\Services\\Authentication.cs",
+              "RelativeToolTip": "TestClient\\Services\\Authentication.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T13:16:40.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestClient\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "TestClient\\Services\\ClientService.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestClient\\Services\\ClientService.cs",
+              "RelativeToolTip": "TestClient\\Services\\ClientService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADgvw4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:58:49.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestServer\\Program.cs",
+              "RelativeDocumentMoniker": "TestServer\\Program.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestServer\\Program.cs",
+              "RelativeToolTip": "TestServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:10:11.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestClient\\Program.cs",
+              "RelativeDocumentMoniker": "TestClient\\Program.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestClient\\Program.cs",
+              "RelativeToolTip": "TestClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:37:30.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\Project\\Csharp\\TestManagement\\TestClient\\Client.cs",
+              "RelativeDocumentMoniker": "TestClient\\Client.cs",
+              "ToolTip": "E:\\Project\\Csharp\\TestManagement\\TestClient\\Client.cs",
+              "RelativeToolTip": "TestClient\\Client.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAASwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:51:47.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

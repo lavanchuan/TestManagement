@@ -1,0 +1,111 @@
+
+.add-quest-dialog{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80vw;
+    padding: 10px;
+    border: 5px solid rgb(15, 13, 15);
+
+    display: none;
+}
+
+.add-quest-dialog h2 {
+    text-align: center;
+}
+
+.add-quest-dialog table{
+    width: 100%;
+}
+
+.add-quest-dialog tr {
+    width: 100%;
+}
+
+.add-quest-dialog th{
+    text-align: left;
+    width: 40%;
+}
+
+.add-quest-dialog td{
+    width: 60%;
+}
+
+.add-quest-dialog input{
+    width: 95%;
+    border: none;
+    /* outline: none; */
+}
+
+.add-quest-dialog input:focus{
+    /* border: none; */
+    outline: none;
+}
+
+.add-quest-dialog .control {
+    text-align: center;
+}
+
+.add-quest-dialog .control button {
+    width: 30%;
+    justify-content: center;
+}
+
+/* .btn */
+.btn {
+    color: cadetblue;
+    cursor: pointer;
+}
+
+/* .load-tes */
+
+/* .test-add */
+.test-add{
+    margin: 0;
+    padding: 1em;
+    width: 100%;
+}
+
+.test-add input {
+    width: 30%;
+}
+
+/* .test-dialog */
+.test-dialog{
+    padding: 20px;
+
+    position: fixed;
+    width: 80vw;
+    height: 80vh;
+
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+
+    background-color: rgb(230, 220, 225);
+
+    border: 1px solid rgb(15, 13, 15);
+
+    display: none;
+
+    overflow: hidden;
+
+    overflow: auto;
+}
+
+/* btn close */
+.test-dialog .close {
+    color: red;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    font-size: 2em;
+    cursor: pointer;
+    user-select: none;
+}
+
+.test-dialog .close:hover{
+    border: 1px solid red;
+}

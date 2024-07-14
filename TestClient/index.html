@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Management</title>
+    <link rel="stylesheet" href="./Styles/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="nav-bar"></div>
+        <div class="menu"></div>
+        <div class="content">
+            <div class="quest">
+                <h2>Quản lý câu hỏi</h2>
+                <button onclick="addQuestion()">Thêm câu hỏi</button>
+            </div>
+            <div class="tests">
+                <h1>Danh sách đề thi <span class="btn" onclick="loadTest()">Load Test</span></h1>
+                <div class="test-add">
+                    <span>Số câu hỏi:</span>
+                    <input type="number" min="1" max="10" id="txtQuestAmount" placeholder="Nhập số câu hỏi">
+                    <button onclick="generateTest()">Tạo đề thi tự động</button>
+                </div>
+                <div class="test-show">
+
+                </div>
+            </div>
+        </div>
+        <div class="footer"></div>
+    </div>
+
+    <div class="add-quest-dialog">
+        <h2>Thêm câu hỏi</h2>
+        <table>
+            <tr>
+                <th>Câu hỏi</th>
+                <td><input type="text" name="" id="txtQuest" placeholder="Nội dung câu hỏi" required></td>
+            </tr>
+            <tr>
+                <th>Đáp án đúng</th>
+                <td><input type="text" name="" id="txtCorrect" placeholder="Đáp án đúng" required></td>
+            </tr>
+            <tr>
+                <th>Đáp án không chính xác</th>
+                <td><input type="text" name="" id="txtIncorrects"
+                        placeholder="Đáp án không chính xác (phân biệt bởi dấu ',,,')" title="a,,,b,,,c" required></td>
+            </tr>
+        </table>
+        <div class="control">
+            <button onclick="sendAddQuest()">Xác nhận</button>
+            <button onclick="addQuestion()">Hủy</button>
+        </div>
+    </div>
+
+    <div class="test-dialog">
+
+    </div>
+
+    <script src="./Scripts/index.js"></script>
+</body>
+
+</html>

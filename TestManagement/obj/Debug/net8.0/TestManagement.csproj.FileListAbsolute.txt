@@ -1,0 +1,12 @@
+E:\Project\Csharp\TestManagement\TestManagement\bin\Debug\net8.0\TestManagement.deps.json
+E:\Project\Csharp\TestManagement\TestManagement\bin\Debug\net8.0\TestManagement.dll
+E:\Project\Csharp\TestManagement\TestManagement\bin\Debug\net8.0\TestManagement.pdb
+E:\Project\Csharp\TestManagement\TestManagement\obj\Debug\net8.0\TestManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Csharp\TestManagement\TestManagement\obj\Debug\net8.0\TestManagement.AssemblyInfoInputs.cache
+E:\Project\Csharp\TestManagement\TestManagement\obj\Debug\net8.0\TestManagement.AssemblyInfo.cs
+E:\Project\Csharp\TestManagement\TestManagement\obj\Debug\net8.0\TestManagement.csproj.CoreCompileInputs.cache
+E:\Project\Csharp\TestManagement\TestManagement\obj\Debug\net8.0\TestManagement.dll
+E:\Project\Csharp\TestManagement\TestManagement\obj\Debug\net8.0\refint\TestManagement.dll
+E:\Project\Csharp\TestManagement\TestManagement\obj\Debug\net8.0\TestManagement.pdb
+E:\Project\Csharp\TestManagement\TestManagement\obj\Debug\net8.0\ref\TestManagement.dll
+E:\Project\Csharp\TestManagement\TestManagement\obj\Debug\net8.0\TestManagement.csproj.AssemblyReference.cache
